@@ -9,7 +9,8 @@ Required Software:
    III.Check the npm version using npm -v.
    IV. Type npm install -g @angular/cli to install Angular.
       (Recommended Angular version: 13.3.1 or higher.)
-
+  ![image](https://user-images.githubusercontent.com/30377376/168782950-3bfd89e8-59e8-4afd-91a2-043790a693dd.png)
+  Please change the api url
 2. Go to the Draw-Rectangle folder and double click Draw-Rectangle.sln.
 3. Go to the UI folder and open the rectangle folder in visual studio code.
 4. open terminal in VS code and type ng-serve.
