@@ -1,0 +1,16 @@
+#controls {
+    position: absolute;
+    bottom: 1;
+}
+
+.div-Border {
+  border: 1px solid black;
+}
+#wrapper{
+    min-width: 300px;
+    min-height: 800px;
+    overflow:scroll;
+}
+h1{
+    text-align: center;
+}
